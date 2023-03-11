@@ -3890,3 +3890,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.11-11.25.49:806][740]LogFileHelpers: ¡No hay cambios que guardar!
 [2023.03.11-11.25.49:821][740]AssetCheck: New page: Asset Save: Map1
 [2023.03.11-11.25.49:821][740]LogContentValidation: Display: Validating World /Game/StarterBundle/CollectionMaps/Map1.Map1
+[2023.03.11-11.26.04:423][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.11-11.26.04:614][850]LogSavePackage: Moving output files for package: /Game/StarterBundle/CollectionMaps/Map1
+[2023.03.11-11.26.04:614][850]LogSavePackage: Moving '../../../../../../Users/Bob/Documents/GitHub/TheCorridor/TheCorridor/Saved/Map1E1654B354AC682A845AB0D8A09014AA2.tmp' to '../../../../../../Users/Bob/Documents/GitHub/TheCorridor/TheCorridor/Content/StarterBundle/CollectionMaps/Map1.umap'
+[2023.03.11-11.26.04:624][850]LogFileHelpers: ¡No hay cambios que guardar!
+[2023.03.11-11.26.04:633][850]AssetCheck: New page: Asset Save: Map1
+[2023.03.11-11.26.04:633][850]LogContentValidation: Display: Validating World /Game/StarterBundle/CollectionMaps/Map1.Map1
